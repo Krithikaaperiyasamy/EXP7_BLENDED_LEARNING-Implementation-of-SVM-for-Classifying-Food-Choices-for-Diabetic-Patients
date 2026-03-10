@@ -10,8 +10,11 @@ To implement a Support Vector Machine (SVM) model to classify food items and opt
 
 ## Algorithm
 1.Import the required Python libraries and load the food dataset for diabetic classification. 
+
 2.Load the dataset containing food items and their nutritional information. 
+
 3.Train the SVM classifier using the training dataset and tune the hyperparameters to improve performance.
+
 4.Test the model using the test dataset and display the classification results and accuracy. 
 
 ## Program:
